@@ -23,3 +23,12 @@
 ### +++Campo onde é inserido usuário e senha tem um icone que indica se você digitou o usuário e senha corretamente
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/edmarpires9/agenda_facil/main/data/preview/login.png" width="504" height="305">
 
+### Commit #03  30/03/2023
+
+### ++Notas da atualização
+
+### ++Adicionado persistencia de dados via SQL SERVER
+
+### ++Melhoria tela de  login permite criar nova conta ou novo usuario
+
+### ++Tela principal sendo construida
