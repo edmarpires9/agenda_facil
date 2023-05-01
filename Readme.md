@@ -28,5 +28,5 @@ Database: SQL
 - Ícones ilustrativos na tela de login são interativos caso sejam clicados exibem uma mensagem.
 
 ###### Primeira atualização #01 - 14/03/2023
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/edmarpires9/agenda_facil/main/data/preview/homepage.png" width="504" height="305">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/edmarpires9/agenda_facil/blob/main/data/preview/Rascunho.png" width="504" height="305">
 - Construido o front-end básico, "rascunho" do APP.
